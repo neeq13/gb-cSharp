@@ -1,0 +1,15 @@
+F:\GB\CSharp\gb-cSharp\les-6\bin\Debug\net6.0\les-6.exe
+F:\GB\CSharp\gb-cSharp\les-6\bin\Debug\net6.0\les-6.deps.json
+F:\GB\CSharp\gb-cSharp\les-6\bin\Debug\net6.0\les-6.runtimeconfig.json
+F:\GB\CSharp\gb-cSharp\les-6\bin\Debug\net6.0\les-6.dll
+F:\GB\CSharp\gb-cSharp\les-6\bin\Debug\net6.0\les-6.pdb
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\les-6.csproj.AssemblyReference.cache
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\les-6.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\les-6.AssemblyInfoInputs.cache
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\les-6.AssemblyInfo.cs
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\les-6.csproj.CoreCompileInputs.cache
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\les-6.dll
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\refint\les-6.dll
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\les-6.pdb
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\les-6.genruntimeconfig.cache
+F:\GB\CSharp\gb-cSharp\les-6\obj\Debug\net6.0\ref\les-6.dll
