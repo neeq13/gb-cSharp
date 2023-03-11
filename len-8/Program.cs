@@ -5,7 +5,7 @@ HomeWork4 work4 = new HomeWork4();
 HomeWork5 work5 = new HomeWork5();
 
 Console.WriteLine("Задача 1:");
-work1.sort(work1.doubleMass());
+work1.sort();
 Console.WriteLine();
 Console.WriteLine("Задача 2:");
 work2.doubleMass();

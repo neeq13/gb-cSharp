@@ -22,8 +22,9 @@
         return list;
     }
 
-    public void sort(int[, ] arr)
+    public void sort()
     {
+        int[, ] arr = doubleMass();
         int[] row = new int[arr.GetLength(0)];
         for (int i = 0; i < arr.GetLength(0); i++)
         {
