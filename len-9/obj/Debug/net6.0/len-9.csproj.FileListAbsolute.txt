@@ -1,0 +1,15 @@
+F:\GB\CSharp\gb-cSharp\len-9\bin\Debug\net6.0\len-9.exe
+F:\GB\CSharp\gb-cSharp\len-9\bin\Debug\net6.0\len-9.deps.json
+F:\GB\CSharp\gb-cSharp\len-9\bin\Debug\net6.0\len-9.runtimeconfig.json
+F:\GB\CSharp\gb-cSharp\len-9\bin\Debug\net6.0\len-9.dll
+F:\GB\CSharp\gb-cSharp\len-9\bin\Debug\net6.0\len-9.pdb
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\len-9.csproj.AssemblyReference.cache
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\len-9.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\len-9.AssemblyInfoInputs.cache
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\len-9.AssemblyInfo.cs
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\len-9.csproj.CoreCompileInputs.cache
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\len-9.dll
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\refint\len-9.dll
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\len-9.pdb
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\len-9.genruntimeconfig.cache
+F:\GB\CSharp\gb-cSharp\len-9\obj\Debug\net6.0\ref\len-9.dll
