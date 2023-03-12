@@ -1,13 +1,14 @@
 public class HomeWork9_2
 {
-    private int sumNatural(int numM, int numN)
+    private int sumNatural(int numM, int numN, int sum)
     {
-        int sum = 0;
-        for (int i = numM; i <= numN; i++)
+        if (numM != numN)
         {
-            sum += i;
+            sum += numM;
+            numM++;
+            return sumNatural(numM, numN, sum);
         }
-        return sum;
+        return sum += numN;
     }
 
     public void start()
@@ -16,7 +17,7 @@ public class HomeWork9_2
         int numM = Convert.ToInt32(Console.ReadLine());
         Console.Write("Введите число N: ");
         int numN = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine(sumNatural(numM, numN));
+        Console.WriteLine(sumNatural(numM, numN, 0));
     }
 
 }
